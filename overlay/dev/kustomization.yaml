@@ -5,4 +5,4 @@ resources:
 images:
 - name: client-image
   newName: plox/modoosugang-client
-  newTag: "69"
+  newTag: "70"
